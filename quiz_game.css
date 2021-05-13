@@ -1,0 +1,56 @@
+
+
+	.login_div1 , .login_div2
+	{
+		background: white;
+		padding: 10px;
+		float: none;
+		border-radius: 15px;
+	}
+
+
+#player1_name , #player2_name
+{
+	display: inline-block;
+	margin-left: 20px;
+}
+#word
+{
+	width: 60%;
+}
+#word_display
+{
+	letter-spacing: 5px;
+}
+#output
+{
+background: white;
+border-radius: 10px;
+border-top: 10px solid #af08fc;
+padding: 10px;
+float: none;
+text-align: left;
+}
+
+h1{
+    color: yellow;
+    font-family: 'Itim', cursive;
+}
+
+button{
+    border-radius: 5px;
+    background: rgb(219,251,25);
+background: linear-gradient(90deg, rgba(219,251,25,1) 12%, rgba(154,239,93,1) 38%, rgba(0,212,255,1) 100%);
+font-family: 'Girassol', cursive;
+width: 30%;
+font-size: larger;
+}
+
+h3 , label{
+    font-family: 'Architects Daughter', cursive;
+}
+
+p {
+	font-size: larger;
+	
+}
